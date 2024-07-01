@@ -1173,3 +1173,206 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.01-13.43.53:857][  3]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.07.01-13.43.53:940][  4]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.07.01-13.45.43:372][104]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.135 and deleted 0 files with total size 0 MiB and 988 empty folders. Scanned 532 files in 1953 folders with total size 19 MiB.
+[2024.07.01-13.47.48:808][255]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Scripting/BP_ExamplePickup.BP_ExamplePickup
+[2024.07.01-13.47.48:808][255]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.01-13.47.48:808][255]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.01-13.47.48:813][255]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.07.01-13.47.49:624][255]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.01-13.47.49:624][255]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.01-13.47.49:624][255]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.01-13.47.49:670][255]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scripting/LV_TestMap.LV_TestMap
+[2024.07.01-13.47.49:670][255]Cmd: MAP LOAD FILE="../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/LV_TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.01-13.47.49:670][255]LightingResults: New page: Lighting Build
+[2024.07.01-13.47.49:670][255]LoadErrors: New page: Loading map: LV_TestMap.umap
+[2024.07.01-13.47.49:681][255]LogWorld: UWorld::CleanupWorld for LV_TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-13.47.49:681][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-13.47.49:682][255]LogWorld: UWorld::CleanupWorld for Sub_Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-13.47.49:682][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-13.47.49:682][255]MapCheck: New page: Map Check
+[2024.07.01-13.47.49:682][255]LightingResults: New page: Lighting Build
+[2024.07.01-13.47.49:687][255]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.01-13.47.49:689][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.07.01-13.47.49:694][255]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_TestMap'.
+[2024.07.01-13.47.49:694][255]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.01-13.47.49:694][255]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.01-13.47.49:695][255]LogAIModule: Creating AISystem for world LV_TestMap
+[2024.07.01-13.47.49:696][255]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Scripting/Sub_Level_01) is flushing async loading
+[2024.07.01-13.47.49:696][255]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2024.07.01-13.47.49:734][255]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.01-13.47.49:741][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.07.01-13.47.49:744][255]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.01-13.47.49:744][255]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2024.07.01-13.47.49:778][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.07.01-13.47.49:785][255]LogSlate: Took 0.003463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.07.01-13.47.49:915][256]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.01-13.47.49:957][257]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.01-13.52.06:857][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.07.01-13.52.06:858][889]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scripting/Sub_Level_01.Sub_Level_01
+[2024.07.01-13.52.06:858][889]Cmd: MAP LOAD FILE="../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Sub_Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.01-13.52.06:858][889]LightingResults: New page: Lighting Build
+[2024.07.01-13.52.06:858][889]LoadErrors: New page: Loading map: Sub_Level_01.umap
+[2024.07.01-13.52.06:870][889]LogWorld: UWorld::CleanupWorld for LV_TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-13.52.06:870][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-13.52.06:870][889]LogWorld: UWorld::CleanupWorld for Sub_Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-13.52.06:871][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-13.52.06:871][889]MapCheck: New page: Map Check
+[2024.07.01-13.52.06:871][889]LightingResults: New page: Lighting Build
+[2024.07.01-13.52.06:880][889]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.01-13.52.06:881][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.07.01-13.52.06:881][889]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sub_Level_01'.
+[2024.07.01-13.52.06:882][889]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.01-13.52.06:882][889]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.01-13.52.06:882][889]LogAIModule: Creating AISystem for world Sub_Level_01
+[2024.07.01-13.52.06:898][889]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.01-13.52.06:906][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.07.01-13.52.06:909][889]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.01-13.52.06:909][889]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2024.07.01-13.52.06:924][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.07.01-13.53.05:365][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.07.01-13.53.05:434][885]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.01-13.53.05:436][885]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scripting/LV_TestMap.LV_TestMap
+[2024.07.01-13.53.05:436][885]Cmd: MAP LOAD FILE="../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/LV_TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.01-13.53.05:436][885]LightingResults: New page: Lighting Build
+[2024.07.01-13.53.05:436][885]LoadErrors: New page: Loading map: LV_TestMap.umap
+[2024.07.01-13.53.05:485][885]LogWorld: UWorld::CleanupWorld for Sub_Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-13.53.05:485][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-13.53.05:486][885]MapCheck: New page: Map Check
+[2024.07.01-13.53.05:486][885]LightingResults: New page: Lighting Build
+[2024.07.01-13.53.05:493][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.01-13.53.05:494][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.07.01-13.53.05:496][885]LogWorld: UWorld::CleanupWorld for LV_TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-13.53.05:496][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-13.53.05:510][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.07.01-13.53.05:519][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.07.01-13.53.05:524][885]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_TestMap'.
+[2024.07.01-13.53.05:524][885]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.01-13.53.05:524][885]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.01-13.53.05:524][885]LogAIModule: Creating AISystem for world LV_TestMap
+[2024.07.01-13.53.05:526][885]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Scripting/Sub_Level_01) is flushing async loading
+[2024.07.01-13.53.05:526][885]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2024.07.01-13.53.05:563][885]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.01-13.53.05:571][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.07.01-13.53.05:574][885]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.01-13.53.05:575][885]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2024.07.01-13.54.03:474][236]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.07.01-13.54.06:450][536]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.07.01-13.54.06:450][536]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.07.01-13.54.21:294][839]Cmd: EDIT CUT
+[2024.07.01-13.54.21:297][839]LogEditorActor: Deleted Actor: PointLight
+[2024.07.01-13.54.21:304][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.07.01-13.54.21:305][839]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.07.01-13.54.24:083][169]Cmd: EDIT PASTE
+[2024.07.01-13.55.59:300][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.07.01-13.56.00:650][210]LogSlate: Window 'Save Content' being destroyed
+[2024.07.01-13.56.00:658][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.01-13.56.00:773][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.07.01-13.56.00:778][210]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.004968 seconds
+[2024.07.01-13.56.00:788][210]LogSavePackage: Moving output files for package: /Game/Scripting/LV_TestMap
+[2024.07.01-13.56.00:788][210]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/LV_TestMapA32375764B5D0DB03C00FF8B4B4E3017.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/LV_TestMap.umap'
+[2024.07.01-13.56.00:795][210]LogFileHelpers: Saving map 'LV_TestMap' took 0.041
+[2024.07.01-13.56.00:803][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.07.01-13.56.00:805][210]LogSavePackage: Moving output files for package: /Game/Scripting/Sub_Level_01
+[2024.07.01-13.56.00:805][210]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/Sub_Level_0140D4C3AF49708E0587D538915C138F95.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Sub_Level_01.umap'
+[2024.07.01-13.56.00:812][210]LogFileHelpers: Saving map 'Sub_Level_01' took 0.017
+[2024.07.01-13.56.00:823][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms
+[2024.07.01-13.56.00:824][210]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.01-13.56.00:824][210]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/LV_TestMap.LV_TestMap
+[2024.07.01-13.56.00:824][210]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Sub_Level_01.Sub_Level_01
+[2024.07.01-13.56.09:985][417]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.01-13.56.09:990][417]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.01-13.56.09:996][418]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.07.01-13.56.13:545][830]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2024.07.01-13.56.13:545][830]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.01-13.56.17:827][313]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.01-13.56.17:842][313]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.01-13.56.17:847][314]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.07.01-13.56.20:662][651]LogContentBrowser: Attempting asset rename: NewFolder -> Overview
+[2024.07.01-13.56.20:662][651]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.01-13.56.32:084][784]LogSlate: Window 'Message' being destroyed
+[2024.07.01-13.56.32:089][784]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+LV_TestMap
+Sub_Level_01
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.07.01-13.56.32:094][784]LogMetaData: Removing '/Game/Scripting/Levels/LV_TestMap.LV_TestMap_C' ref from Metadata '/Game/Scripting/LV_TestMap.PackageMetaData'
+[2024.07.01-13.56.32:094][784]LogMetaData: Removing '/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.LV_TestMap.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Scripting/LV_TestMap.PackageMetaData'
+[2024.07.01-13.56.32:094][784]LogMetaData: Removing '/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.LV_TestMap.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Scripting/LV_TestMap.PackageMetaData'
+[2024.07.01-13.56.32:094][784]LogMetaData: Removing '/Game/Scripting/Levels/LV_TestMap.SKEL_LV_TestMap_C:ReceiveBeginPlay' ref from Metadata '/Game/Scripting/LV_TestMap.PackageMetaData'
+[2024.07.01-13.56.32:094][784]LogMetaData: Removing '/Game/Scripting/Levels/LV_TestMap.SKEL_LV_TestMap_C:ReceiveTick' ref from Metadata '/Game/Scripting/LV_TestMap.PackageMetaData'
+[2024.07.01-13.56.32:094][784]LogMetaData: Removing '/Game/Scripting/Levels/LV_TestMap.SKEL_LV_TestMap_C:BndEvt__LV_TestMap_StaticMeshActor_2_K2Node_ActorBoundEvent_0_ActorHitSignature__DelegateSignature' ref from Metadata '/Game/Scripting/LV_TestMap.PackageMetaData'
+[2024.07.01-13.56.32:094][784]LogMetaData: Removing '/Game/Scripting/Levels/LV_TestMap.SKEL_LV_TestMap_C' ref from Metadata '/Game/Scripting/LV_TestMap.PackageMetaData'
+[2024.07.01-13.56.32:094][784]LogMetaData: Removing '/Game/Scripting/Levels/LV_TestMap.LV_TestMap_C:ReceiveBeginPlay' ref from Metadata '/Game/Scripting/LV_TestMap.PackageMetaData'
+[2024.07.01-13.56.32:103][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.01-13.56.32:199][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.07.01-13.56.32:200][784]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Scripting/Levels/LV_TestMap does not exist, will not scan.
+[2024.07.01-13.56.32:208][784]LogSavePackage: Moving output files for package: /Game/Scripting/Levels/LV_TestMap
+[2024.07.01-13.56.32:208][784]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/LV_TestMapB1ACBE2B444319B1ADA339B8BA344D62.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Levels/LV_TestMap.umap'
+[2024.07.01-13.56.32:214][784]LogFileHelpers: Saving map 'LV_TestMap' took 0.035
+[2024.07.01-13.56.32:215][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripting/LV_TestMap" FILE="../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/LV_TestMap.umap" SILENT=true
+[2024.07.01-13.56.32:216][784]LogSavePackage: Moving output files for package: /Game/Scripting/LV_TestMap
+[2024.07.01-13.56.32:216][784]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/LV_TestMap948C3C4C4B35373D651009969256FB1F.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/LV_TestMap.umap'
+[2024.07.01-13.56.32:225][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.07.01-13.56.32:227][784]LogSavePackage: Moving output files for package: /Game/Scripting/Levels/Sub_Level_01
+[2024.07.01-13.56.32:227][784]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/Sub_Level_01667632764DA4928676580D9E0110EA51.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Levels/Sub_Level_01.umap'
+[2024.07.01-13.56.32:234][784]LogFileHelpers: Saving map 'Sub_Level_01' took 0.017
+[2024.07.01-13.56.32:234][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripting/Sub_Level_01" FILE="../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Sub_Level_01.umap" SILENT=true
+[2024.07.01-13.56.32:234][784]LogSavePackage: Moving output files for package: /Game/Scripting/Sub_Level_01
+[2024.07.01-13.56.32:235][784]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/Sub_Level_01E42C89474F1FC78DA88DDCABC0057B40.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Sub_Level_01.umap'
+[2024.07.01-13.56.32:240][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 301 ms)
+[2024.07.01-13.56.32:269][784]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.01-13.56.32:269][784]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/LV_TestMap.LV_TestMap
+[2024.07.01-13.56.32:269][784]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Scripting/LV_TestMap.LV_TestMap
+[2024.07.01-13.56.32:269][784]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Scripting/LV_TestMap.LV_TestMap_C
+[2024.07.01-13.56.32:269][784]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Scripting/LV_TestMap.Default__LV_TestMap_C
+[2024.07.01-13.56.32:269][784]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/Sub_Level_01.Sub_Level_01
+[2024.07.01-13.56.32:269][784]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Scripting/Sub_Level_01.Sub_Level_01
+[2024.07.01-13.56.35:774][144]LogMetaData: Removing '/Game/Scripting/Overview/BP_ExamplePickup.BP_ExamplePickup:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Scripting/BP_ExamplePickup.PackageMetaData'
+[2024.07.01-13.56.35:774][144]LogMetaData: Removing '/Game/Scripting/Overview/BP_ExamplePickup.BP_ExamplePickup_C' ref from Metadata '/Game/Scripting/BP_ExamplePickup.PackageMetaData'
+[2024.07.01-13.56.35:774][144]LogMetaData: Removing '/Game/Scripting/Overview/BP_ExamplePickup.SKEL_BP_ExamplePickup_C:BndEvt__BP_ExamplePickup_Sphere_collision_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Scripting/BP_ExamplePickup.PackageMetaData'
+[2024.07.01-13.56.35:774][144]LogMetaData: Removing '/Game/Scripting/Overview/BP_ExamplePickup.SKEL_BP_ExamplePickup_C:UserConstructionScript' ref from Metadata '/Game/Scripting/BP_ExamplePickup.PackageMetaData'
+[2024.07.01-13.56.35:774][144]LogMetaData: Removing '/Game/Scripting/Overview/BP_ExamplePickup.SKEL_BP_ExamplePickup_C' ref from Metadata '/Game/Scripting/BP_ExamplePickup.PackageMetaData'
+[2024.07.01-13.56.35:780][144]LogMetaData: Removing '/Game/Scripting/Overview/BP_modularConstructScript.BP_modularConstructScript:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Scripting/BP_modularConstructScript.PackageMetaData'
+[2024.07.01-13.56.35:780][144]LogMetaData: Removing '/Game/Scripting/Overview/BP_modularConstructScript.BP_modularConstructScript_C' ref from Metadata '/Game/Scripting/BP_modularConstructScript.PackageMetaData'
+[2024.07.01-13.56.35:780][144]LogMetaData: Removing '/Game/Scripting/Overview/BP_modularConstructScript.BP_modularConstructScript:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Scripting/BP_modularConstructScript.PackageMetaData'
+[2024.07.01-13.56.35:780][144]LogMetaData: Removing '/Game/Scripting/Overview/BP_modularConstructScript.BP_modularConstructScript:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Scripting/BP_modularConstructScript.PackageMetaData'
+[2024.07.01-13.56.35:780][144]LogMetaData: Removing '/Game/Scripting/Overview/BP_modularConstructScript.BP_modularConstructScript:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Scripting/BP_modularConstructScript.PackageMetaData'
+[2024.07.01-13.56.35:780][144]LogMetaData: Removing '/Game/Scripting/Overview/BP_modularConstructScript.SKEL_BP_modularConstructScript_C:ReceiveBeginPlay' ref from Metadata '/Game/Scripting/BP_modularConstructScript.PackageMetaData'
+[2024.07.01-13.56.35:780][144]LogMetaData: Removing '/Game/Scripting/Overview/BP_modularConstructScript.SKEL_BP_modularConstructScript_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Scripting/BP_modularConstructScript.PackageMetaData'
+[2024.07.01-13.56.35:780][144]LogMetaData: Removing '/Game/Scripting/Overview/BP_modularConstructScript.SKEL_BP_modularConstructScript_C:ReceiveTick' ref from Metadata '/Game/Scripting/BP_modularConstructScript.PackageMetaData'
+[2024.07.01-13.56.35:780][144]LogMetaData: Removing '/Game/Scripting/Overview/BP_modularConstructScript.SKEL_BP_modularConstructScript_C:UserConstructionScript' ref from Metadata '/Game/Scripting/BP_modularConstructScript.PackageMetaData'
+[2024.07.01-13.56.35:780][144]LogMetaData: Removing '/Game/Scripting/Overview/BP_modularConstructScript.SKEL_BP_modularConstructScript_C' ref from Metadata '/Game/Scripting/BP_modularConstructScript.PackageMetaData'
+[2024.07.01-13.56.35:780][144]LogMetaData: Removing '/Game/Scripting/Overview/BP_modularConstructScript.BP_modularConstructScript_C:UserConstructionScript' ref from Metadata '/Game/Scripting/BP_modularConstructScript.PackageMetaData'
+[2024.07.01-13.56.35:784][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.01-13.56.35:845][144]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Scripting/Overview/BP_ExamplePickup does not exist, will not scan.
+[2024.07.01-13.56.35:850][144]LogSavePackage: Moving output files for package: /Game/Scripting/Overview/BP_ExamplePickup
+[2024.07.01-13.56.35:850][144]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ExamplePickupD5283DA0481668B6E551CE8E8699A255.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_ExamplePickup.uasset'
+[2024.07.01-13.56.35:852][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripting/BP_ExamplePickup" FILE="../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/BP_ExamplePickup.uasset" SILENT=true
+[2024.07.01-13.56.35:852][144]LogSavePackage: Moving output files for package: /Game/Scripting/BP_ExamplePickup
+[2024.07.01-13.56.35:853][144]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ExamplePickupC3D808FC48157D6958AFFE85102D0FBB.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/BP_ExamplePickup.uasset'
+[2024.07.01-13.56.35:855][144]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Scripting/Overview/BP_modularConstructScript does not exist, will not scan.
+[2024.07.01-13.56.35:859][144]LogSavePackage: Moving output files for package: /Game/Scripting/Overview/BP_modularConstructScript
+[2024.07.01-13.56.35:859][144]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_modularConstructScript859D1562432D9BA97BC5088AF69D2463.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_modularConstructScript.uasset'
+[2024.07.01-13.56.35:861][144]LogSavePackage: Moving output files for package: /Game/Scripting/BP_modularConstructScript
+[2024.07.01-13.56.35:862][144]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_modularConstructScript4CB96E664D2F41840804AFA7C6C49E97.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/BP_modularConstructScript.uasset'
+[2024.07.01-13.56.35:868][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 383 ms)
+[2024.07.01-13.56.35:895][144]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.01-13.56.35:895][144]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Scripting/Overview/BP_ExamplePickup.BP_ExamplePickup
+[2024.07.01-13.56.35:895][144]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Scripting/BP_ExamplePickup.BP_ExamplePickup_C
+[2024.07.01-13.56.35:895][144]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Scripting/BP_ExamplePickup.BP_ExamplePickup
+[2024.07.01-13.56.35:895][144]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Scripting/BP_ExamplePickup.Default__BP_ExamplePickup_C
+[2024.07.01-13.56.35:895][144]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Scripting/Overview/BP_modularConstructScript.BP_modularConstructScript
+[2024.07.01-13.56.35:895][144]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Scripting/BP_modularConstructScript.BP_modularConstructScript
+[2024.07.01-13.56.35:895][144]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Scripting/BP_modularConstructScript.BP_modularConstructScript_C
+[2024.07.01-13.56.35:895][144]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Scripting/BP_modularConstructScript.Default__BP_modularConstructScript_C
+[2024.07.01-13.56.51:091][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.07.01-13.56.52:388][953]LogSlate: Window 'Save Content' being destroyed
+[2024.07.01-13.56.52:397][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.01-13.56.52:500][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.07.01-13.56.52:509][953]LogSavePackage: Moving output files for package: /Game/Scripting/Levels/LV_TestMap
+[2024.07.01-13.56.52:510][953]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/LV_TestMap3149DD8140F0DACD5F76778922C1315E.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Levels/LV_TestMap.umap'
+[2024.07.01-13.56.52:516][953]LogFileHelpers: Saving map 'LV_TestMap' took 0.033
+[2024.07.01-13.56.52:521][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 508 ms)
+[2024.07.01-13.56.52:522][953]AssetCheck: New page: Asset Save: LV_TestMap
+[2024.07.01-13.56.52:522][953]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/LV_TestMap.LV_TestMap
