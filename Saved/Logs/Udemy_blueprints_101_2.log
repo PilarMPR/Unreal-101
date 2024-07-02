@@ -1272,3 +1272,5 @@ LogInit: Object subsystem initialized
 [2024.07.02-03.40.06:105][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms
 [2024.07.02-03.40.06:106][ 87]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2024.07.02-03.40.06:106][ 87]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.02-03.40.43:946][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.07.02-03.41.06:207][ 84]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.051 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 544 files in 984 folders with total size 19 MiB.
