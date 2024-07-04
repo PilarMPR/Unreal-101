@@ -24,7 +24,8 @@
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/StarterContent/Props/Materials/M_Chair.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Input/Actions/IA_sprint.uasset",
-				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Input/IMC_Default.uasset"
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Input/Actions/IA_StopPlay.uasset"
 			]
 		}
 	]
