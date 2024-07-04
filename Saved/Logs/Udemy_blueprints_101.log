@@ -3316,30 +3316,3 @@ LV_TestMap9 (Other Actor)
 [2024.07.04-11.50.16:453][421]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2024.07.04-11.50.16:453][421]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
 [2024.07.04-11.52.56:014][255]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.044 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 601 files in 1080 folders with total size 22 MiB.
-[2024.07.04-11.54.14:638][846]LogSlate: Window 'Color Picker' being destroyed
-[2024.07.04-11.55.47:208][775]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
-[2024.07.04-11.55.47:213][775]LogSlate: Window 'Color Picker' being destroyed
-[2024.07.04-11.55.50:224][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2024.07.04-11.55.50:285][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2024.07.04-11.55.50:285][128]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
-[2024.07.04-11.55.50:307][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
-[2024.07.04-11.55.50:334][128]LogSavePackage: Moving output files for package: /Game/Scripting/Levels/LV_TestMap
-[2024.07.04-11.55.50:335][128]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/LV_TestMapE36D7F0C47E8AC450635328DC6088C3E.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Levels/LV_TestMap.umap'
-[2024.07.04-11.55.50:342][128]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
-[2024.07.04-11.55.50:342][128]LogFileHelpers: Saving map 'LV_TestMap' took 0.058
-[2024.07.04-11.55.50:352][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 6.22 sec)
-[2024.07.04-11.55.50:354][128]AssetCheck: New page: Asset Save: LV_TestMap
-[2024.07.04-11.55.50:354][128]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/LV_TestMap.LV_TestMap
-[2024.07.04-11.55.51:241][234]BlueprintLog: New page: Compile LV_TestMap
-[2024.07.04-11.55.51:266][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
-[2024.07.04-11.55.51:825][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2024.07.04-11.55.51:901][286]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2024.07.04-11.55.51:902][286]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
-[2024.07.04-11.55.51:924][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
-[2024.07.04-11.55.51:952][286]LogSavePackage: Moving output files for package: /Game/Scripting/Levels/LV_TestMap
-[2024.07.04-11.55.51:952][286]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/LV_TestMap0D8F1C574310F78CEA52C7B79F42CBE7.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Levels/LV_TestMap.umap'
-[2024.07.04-11.55.51:959][286]LogParticles: Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/Scripting/Levels/LV_TestMap.LV_TestMap:PersistentLevel.Emitter_1.ParticleSystemComponent0
-[2024.07.04-11.55.51:960][286]LogFileHelpers: Saving map 'LV_TestMap' took 0.059
-[2024.07.04-11.55.51:972][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 6.37 sec)
-[2024.07.04-11.55.51:973][286]AssetCheck: New page: Asset Save: LV_TestMap
-[2024.07.04-11.55.51:973][286]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/LV_TestMap.LV_TestMap
