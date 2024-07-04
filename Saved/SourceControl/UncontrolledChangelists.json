@@ -17,7 +17,10 @@
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Levels/Sub_Level_01.umap",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_ExamplePickup.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_modularConstructScript.uasset",
-				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_LV_Settings.uasset"
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_LV_Settings.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/widgets/WBP_HUD.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_CeelingLight.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
 	]
