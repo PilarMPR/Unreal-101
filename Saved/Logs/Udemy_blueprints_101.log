@@ -1608,3 +1608,39 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.05-10.20.10:573][982]AssetCheck: New page: Asset Save: BP_PlayerController
 [2024.07.05-10.20.10:573][982]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Scripting/Overview/Framework/BP_PlayerController.BP_PlayerController
 [2024.07.05-10.20.12:392][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.07.05-10.40.44:708][ 91]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.07.05-10.40.44:708][ 91]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.07.05-10.41.17:426][ 17]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.07.05-10.41.48:639][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-10.41.48:702][713]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.05-10.41.48:826][713]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-10.41.48:826][713]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacter25481A8640A82690000072AA0A67DEBE.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-10.41.48:832][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 2.51 sec)
+[2024.07.05-10.41.48:833][713]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-10.41.48:833][713]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.05-10.41.59:173][889]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.07.05-10.41.59:177][889]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.05-10.42.37:979][499]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.05-10.42.38:034][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.07.05-10.42.38:588][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-10.42.38:745][549]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-10.42.38:745][549]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacter7E3608794D0AB7A0A803F08C7C42F338.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-10.42.38:751][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 2.67 sec)
+[2024.07.05-10.42.38:753][549]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-10.42.38:753][549]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.05-10.43.23:359][843]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.05-10.43.23:394][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.07.05-10.43.23:983][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-10.43.24:131][892]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-10.43.24:131][892]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacterCE63E9BA48FDF59A2E8BF9BF930B1730.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-10.43.24:136][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 2.83 sec)
+[2024.07.05-10.43.24:139][892]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-10.43.24:139][892]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.05-10.43.42:731][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.07.05-10.43.43:938][ 65]LogSlate: Window 'Save Content' being destroyed
+[2024.07.05-10.43.43:947][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-10.43.44:027][ 65]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-10.43.44:027][ 65]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacterDC72FD3B4062A7A369CBE192B63A4C50.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-10.43.44:033][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 2.91 sec)
+[2024.07.05-10.43.44:034][ 65]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-10.43.44:034][ 65]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
