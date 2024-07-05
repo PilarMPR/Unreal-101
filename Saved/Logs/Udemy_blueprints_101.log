@@ -1644,3 +1644,757 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.05-10.43.44:033][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 2.91 sec)
 [2024.07.05-10.43.44:034][ 65]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2024.07.05-10.43.44:034][ 65]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.05-10.57.37:289][645]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.048 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 607 files in 1089 folders with total size 22 MiB.
+[2024.07.05-11.15.44:206][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.15.44:301][369]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-11.15.44:302][369]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacter3746DFA04E55CC222A35D6AF52838216.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-11.15.44:310][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 3.02 sec)
+[2024.07.05-11.15.44:311][369]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-11.15.44:311][369]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.05-11.15.46:287][593]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.05-11.15.46:320][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.07.05-11.15.47:017][656]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.15.47:148][656]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-11.15.47:148][656]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacter6E235A964A96FD098191BD8FCCB55945.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-11.15.47:153][656]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 3.16 sec)
+[2024.07.05-11.15.47:156][656]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-11.15.47:156][656]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.05-11.16.00:841][191]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.MI_Quinn_02
+[2024.07.05-11.16.00:854][191]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.05-11.16.00:854][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.05-11.16.01:097][191]LogViewport: Scene viewport resized to 1335x894, mode Windowed.
+[2024.07.05-11.16.13:737][648]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.05-11.16.19:005][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.16.19:162][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.07.05-11.16.19:278][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.07.05-11.16.19:282][273]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02
+[2024.07.05-11.16.19:282][273]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/MI_Quinn_02789B91ED4753C2E01D3DC79A898380DA.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset'
+[2024.07.05-11.16.19:287][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 282 ms (total: 3.44 sec)
+[2024.07.05-11.16.19:290][273]AssetCheck: New page: Asset Save: MI_Quinn_02
+[2024.07.05-11.16.19:290][273]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.MI_Quinn_02
+[2024.07.05-11.16.26:501][ 80]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.MI_Quinn_01
+[2024.07.05-11.16.26:502][ 80]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.05-11.16.26:502][ 80]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.05-11.16.26:661][ 80]LogViewport: Scene viewport resized to 1335x894, mode Windowed.
+[2024.07.05-11.16.32:042][678]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin
+[2024.07.05-11.16.32:049][678]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.05-11.16.32:049][678]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.05-11.16.32:149][678]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.05-11.16.32:149][678]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.07.05-11.16.32:149][678]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.05-11.16.32:149][678]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.07.05-11.16.32:149][678]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.07.05-11.16.32:149][678]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.07.05-11.16.32:149][678]MaterialEditorStats: Shader Count: 0
+[2024.07.05-11.16.32:151][678]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: ================================================
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Total job queries 19, among them cache hits 0 (0.00%)
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Tracking 7 distinct input hashes that result in 5 distinct outputs (71.43%)
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: RAM used: 146.01 KiB of 6.40 GiB budget. Usage: 0.00%
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Shaders Compiled: 7
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Jobs assigned 19, completed 7 (36.84%)
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Average time worker was idle: 3763.48 s
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Job execution time: average 0.61 s, max 1.03 s
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Job life time (pending + execution): average 0.62 s, max 1.05
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Shader code size: average 34.235 KiB, min 29.859 KiB, max 36.648 KiB
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.31 s
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Jobs were issued in 19 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Average processing rate: 5.35 jobs/sec
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Total thread time: 2.283 s
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Total thread preprocess time: 1.605 s
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Percentage time preprocessing: 70.29%
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Effective parallelization: 1.74 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.30 sec, max 0.47 sec, min 0.13 sec)
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.30 sec, max 0.47 sec, min 0.13 sec)
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.24 sec, max 0.40 sec, min 0.09 sec)
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.07.05-11.16.32:428][696]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.34% of total time (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2024.07.05-11.16.32:429][696]LogShaderCompilers: Display:                                                 FLumenCardVS - 26.31% of total time (compiled    2 times, average 0.30 sec, max 0.47 sec, min 0.13 sec)
+[2024.07.05-11.16.32:429][696]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 26.14% of total time (compiled    2 times, average 0.30 sec, max 0.47 sec, min 0.13 sec)
+[2024.07.05-11.16.32:429][696]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 21.21% of total time (compiled    2 times, average 0.24 sec, max 0.40 sec, min 0.09 sec)
+[2024.07.05-11.16.32:429][696]LogShaderCompilers: Display: ================================================
+[2024.07.05-11.16.32:435][697]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.07.05-11.16.32:435][697]MaterialEditorStats: Texture samplers: 6/16
+[2024.07.05-11.16.32:435][697]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.07.05-11.16.32:435][697]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.05-11.16.32:435][697]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.07.05-11.16.32:435][697]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.07.05-11.16.32:435][697]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.07.05-11.16.32:435][697]MaterialEditorStats: Shader Count: 3
+[2024.07.05-11.16.32:543][710]MaterialEditorStats: Base pass shader: 305 instructions
+[2024.07.05-11.16.32:543][710]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.07.05-11.16.32:543][710]MaterialEditorStats: Texture samplers: 8/16
+[2024.07.05-11.16.32:543][710]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.07.05-11.16.32:543][710]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.05-11.16.32:543][710]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.07.05-11.16.32:543][710]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.07.05-11.16.32:543][710]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.07.05-11.16.32:543][710]MaterialEditorStats: Shader Count: 6
+[2024.07.05-11.17.08:943][ 10]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.05-11.17.08:943][ 10]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.07.05-11.17.08:943][ 10]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.05-11.17.08:943][ 10]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.07.05-11.17.08:943][ 10]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.07.05-11.17.08:943][ 10]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.07.05-11.17.08:943][ 10]MaterialEditorStats: Shader Count: 0
+[2024.07.05-11.17.09:187][ 39]MaterialEditorStats: Base pass shader: 305 instructions
+[2024.07.05-11.17.09:187][ 39]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.07.05-11.17.09:187][ 39]MaterialEditorStats: Texture samplers: 8/16
+[2024.07.05-11.17.09:187][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.07.05-11.17.09:187][ 39]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.05-11.17.09:187][ 39]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.07.05-11.17.09:187][ 39]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.07.05-11.17.09:187][ 39]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.07.05-11.17.09:187][ 39]MaterialEditorStats: Shader Count: 3
+[2024.07.05-11.17.12:335][403]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.05-11.17.12:335][403]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.07.05-11.17.12:335][403]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.05-11.17.12:335][403]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.07.05-11.17.12:335][403]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.07.05-11.17.12:335][403]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.07.05-11.17.12:335][403]MaterialEditorStats: Shader Count: 0
+[2024.07.05-11.17.12:492][422]MaterialEditorStats: Texture samplers: 6/16
+[2024.07.05-11.17.12:492][422]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.07.05-11.17.12:492][422]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.05-11.17.12:492][422]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.07.05-11.17.12:492][422]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.07.05-11.17.12:492][422]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.07.05-11.17.12:492][422]MaterialEditorStats: Shader Count: 1
+[2024.07.05-11.17.12:592][434]MaterialEditorStats: Base pass shader: 305 instructions
+[2024.07.05-11.17.12:592][434]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.07.05-11.17.12:592][434]MaterialEditorStats: Texture samplers: 8/16
+[2024.07.05-11.17.12:592][434]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.07.05-11.17.12:592][434]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.05-11.17.12:592][434]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.07.05-11.17.12:592][434]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.07.05-11.17.12:592][434]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.07.05-11.17.12:592][434]MaterialEditorStats: Shader Count: 6
+[2024.07.05-11.17.14:397][649]LogEditorTransaction: Undo Create Pin Link
+[2024.07.05-11.17.14:544][649]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.05-11.17.14:544][649]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.07.05-11.17.14:544][649]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.05-11.17.14:544][649]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.07.05-11.17.14:544][649]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.07.05-11.17.14:544][649]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.07.05-11.17.14:544][649]MaterialEditorStats: Shader Count: 0
+[2024.07.05-11.17.14:647][650]LogEditorTransaction: Undo Create Pin Link
+[2024.07.05-11.17.14:938][652]MaterialEditorStats: Base pass shader: 305 instructions
+[2024.07.05-11.17.14:938][652]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.07.05-11.17.14:938][652]MaterialEditorStats: Texture samplers: 8/16
+[2024.07.05-11.17.14:938][652]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.07.05-11.17.14:938][652]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.05-11.17.14:938][652]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.07.05-11.17.14:938][652]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.07.05-11.17.14:938][652]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.07.05-11.17.14:938][652]MaterialEditorStats: Shader Count: 6
+[2024.07.05-11.17.15:419][708]LogEditorTransaction: Undo Edit Tint
+[2024.07.05-11.17.17:525][951]LogEditorTransaction: Redo Edit Tint
+[2024.07.05-11.17.25:876][915]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D
+[2024.07.05-11.17.25:953][915]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.05-11.17.25:953][915]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.07.05-11.17.25:953][915]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.05-11.17.25:953][915]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.07.05-11.17.25:953][915]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.07.05-11.17.25:953][915]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.07.05-11.17.25:953][915]MaterialEditorStats: Shader Count: 0
+[2024.07.05-11.17.25:957][915]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2024.07.05-11.17.26:047][916]MaterialEditorStats: Base pass shader: 305 instructions
+[2024.07.05-11.17.26:047][916]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.07.05-11.17.26:047][916]MaterialEditorStats: Texture samplers: 8/16
+[2024.07.05-11.17.26:047][916]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.07.05-11.17.26:047][916]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.05-11.17.26:047][916]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.07.05-11.17.26:047][916]MaterialEditorStats: LWC Demote usages (Est.): 1
+[2024.07.05-11.17.26:047][916]MaterialEditorStats: LWC Subtract usages (Est.): 3
+[2024.07.05-11.17.26:047][916]MaterialEditorStats: Shader Count: 6
+[2024.07.05-11.17.29:896][347]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2024.07.05-11.17.37:478][197]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.05-11.17.37:485][197]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2024.07.05-11.17.39:533][417]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2024.07.05-11.17.46:017][168]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2024.07.05-11.17.49:809][596]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2024.07.05-11.17.52:757][923]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2024.07.05-11.17.55:182][186]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2024.07.05-11.17.58:914][607]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2024.07.05-11.18.04:598][257]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2024.07.05-11.18.07:988][659]Cmd: TRANSACTION UNDO
+[2024.07.05-11.18.07:988][659]LogEditorTransaction: Undo Edit Vibrance
+[2024.07.05-11.18.09:920][810]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2024.07.05-11.18.24:242][444]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Final
+[2024.07.05-11.18.24:332][444]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.05-11.18.40:389][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.18.40:582][354]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D
+[2024.07.05-11.18.40:582][354]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/T_Manny_01_D19F8D5114EF0D26E2E9AEC9015F25A30.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset'
+[2024.07.05-11.18.40:588][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 3.64 sec)
+[2024.07.05-11.18.40:589][354]AssetCheck: New page: Asset Save: T_Manny_01_D
+[2024.07.05-11.18.40:589][354]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D
+[2024.07.05-11.18.46:237][  2]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.18.46:353][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.07.05-11.18.46:985][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.07.05-11.18.46:989][  2]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02
+[2024.07.05-11.18.46:989][  2]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/MI_Quinn_02EAA9BA1749E8E7EFB10B58BD46B307B7.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset'
+[2024.07.05-11.18.46:997][  2]LogFileHelpers: InternalPromptForCheckoutAndSave took 759 ms (total: 4.40 sec)
+[2024.07.05-11.18.46:998][  2]AssetCheck: New page: Asset Save: MI_Quinn_02
+[2024.07.05-11.18.46:998][  2]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.MI_Quinn_02
+[2024.07.05-11.18.49:706][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.07.05-11.18.59:923][484]LogViewport: Scene viewport resized to 1141x772, mode Windowed.
+[2024.07.05-11.19.32:887][262]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.05-11.19.34:869][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.19.35:005][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: ================================================
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Total job queries 110, among them cache hits 58 (52.73%)
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Tracking 51 distinct input hashes that result in 25 distinct outputs (49.02%)
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: RAM used: 1.20 MiB of 6.40 GiB budget. Usage: 0.02%
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Shaders Compiled: 51
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Jobs assigned 52, completed 51 (98.08%)
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Average time worker was idle: 429.57 s
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.10 s
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Job execution time: average 0.32 s, max 1.03 s
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Job life time (pending + execution): average 0.37 s, max 1.05
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Shader code size: average 35.98 KiB, min 29.859 KiB, max 69.594 KiB
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.46 s
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Jobs were issued in 52 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Average processing rate: 11.44 jobs/sec
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Total thread time: 8.759 s
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Total thread preprocess time: 2.453 s
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Percentage time preprocessing: 28.01%
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Effective parallelization: 1.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 0.20 sec, max 0.47 sec, min 0.12 sec)
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 0.18 sec, max 0.60 sec, min 0.10 sec)
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   16 times, average 0.16 sec, max 0.47 sec, min 0.11 sec)
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    5 times, average 0.14 sec, max 0.40 sec, min 0.06 sec)
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.08% of total time (compiled   16 times, average 0.18 sec, max 0.60 sec, min 0.10 sec)
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.35% of total time (compiled   16 times, average 0.16 sec, max 0.47 sec, min 0.11 sec)
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.52% of total time (compiled    5 times, average 0.20 sec, max 0.47 sec, min 0.12 sec)
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display:                                                FAnisotropyVS - 8.48% of total time (compiled    6 times, average 0.12 sec, max 0.14 sec, min 0.11 sec)
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.06% of total time (compiled    5 times, average 0.14 sec, max 0.40 sec, min 0.06 sec)
+[2024.07.05-11.19.35:310][484]LogShaderCompilers: Display: ================================================
+[2024.07.05-11.19.35:600][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.07.05-11.19.35:604][484]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01
+[2024.07.05-11.19.35:604][484]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/MI_Quinn_019A338F074F65BA21FC3962AAACACE27D.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset'
+[2024.07.05-11.19.35:610][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 741 ms (total: 5.14 sec)
+[2024.07.05-11.19.35:613][484]AssetCheck: New page: Asset Save: MI_Quinn_01
+[2024.07.05-11.19.35:613][484]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.MI_Quinn_01
+[2024.07.05-11.19.40:685][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.19.40:744][ 39]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-11.19.40:744][ 39]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacter53C55E474EAB3A9BC19F28936917B7CF.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-11.19.40:749][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 5.20 sec)
+[2024.07.05-11.19.40:751][ 39]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-11.19.40:751][ 39]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.05-11.20.26:763][216]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.05-11.20.26:815][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.07.05-11.20.27:472][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.20.27:622][268]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-11.20.27:622][268]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacter17044E8440AA821C0C85ABA8A139D994.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-11.20.27:631][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 5.36 sec)
+[2024.07.05-11.20.27:632][268]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-11.20.27:632][268]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.05-11.20.31:754][719]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.05-11.20.31:759][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.05-11.20.31:760][719]PIE: New page: PIE session: LV_TestMap (5 Jul 2024, 15:20:31)
+[2024.07.05-11.20.31:760][719]LogPlayLevel: Creating play world package: /Game/Scripting/Levels/UEDPIE_0_LV_TestMap
+[2024.07.05-11.20.31:764][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004382s)
+[2024.07.05-11.20.31:764][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scripting/Levels/LV_TestMap.LV_TestMap to /Game/Scripting/Levels/UEDPIE_0_LV_TestMap.LV_TestMap (0.004415s)
+[2024.07.05-11.20.31:774][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.07.05-11.20.31:775][719]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.05-11.20.31:775][719]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.05-11.20.31:775][719]LogAIModule: Creating AISystem for world LV_TestMap
+[2024.07.05-11.20.31:776][719]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2024.07.05-11.20.31:776][719]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.07.05-11.20.31:776][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.05-11.20.31:776][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.05-11.20.31:776][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.05-11.20.31:776][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.05-11.20.31:776][719]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.05-11.20.31:776][719]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.05-11.20.31:776][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.05-11.20.31:776][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.05-11.20.31:776][719]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.05-11.20.31:776][719]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.05-11.20.31:776][719]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.05-11.20.31:778][719]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.05-11.20.31:800][719]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (TUF GAMING H1 Wireless)
+[2024.07.05-11.20.31:800][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.05-11.20.31:800][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.05-11.20.31:800][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.05-11.20.31:801][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.07.05-11.20.31:801][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.07.05-11.20.31:802][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.07.05-11.20.31:802][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.07.05-11.20.31:802][719]LogInit: FAudioDevice initialized with ID 3.
+[2024.07.05-11.20.31:802][719]LogAudio: Display: Audio Device (ID: 3) registered with world 'LV_TestMap'.
+[2024.07.05-11.20.31:802][719]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.07.05-11.20.31:804][719]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.05-11.20.31:807][719]LogWorld: Bringing World /Game/Scripting/Levels/UEDPIE_0_LV_TestMap.LV_TestMap up for play (max tick rate 0) at 2024.07.05-13.20.31
+[2024.07.05-11.20.31:807][719]LogWorld: Bringing up level for play took: 0.001179
+[2024.07.05-11.20.31:810][719]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.07.05-11.20.31:812][719]LogBlueprintUserMessages: [LV_TestMap_C_0] X=-1540.000 Y=-430.000 Z=91.650
+[2024.07.05-11.20.31:813][719]PIE: Server logged in
+[2024.07.05-11.20.31:814][719]PIE: Play in editor total start time 0.054 seconds.
+[2024.07.05-11.20.31:817][719]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Starter_Birds01'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.07.05-11.20.36:670][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.05-11.20.36:670][291]LogWorld: BeginTearingDown for /Game/Scripting/Levels/UEDPIE_0_LV_TestMap
+[2024.07.05-11.20.36:670][291]LogWorld: UWorld::CleanupWorld for LV_TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.05-11.20.36:670][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.05-11.20.36:672][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.05-11.20.36:674][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.05-11.20.36:684][291]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.05-11.20.36:684][291]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.07.05-11.20.36:684][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.07.05-11.20.36:685][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.07.05-11.20.36:719][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.05-11.20.36:721][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.07.05-11.20.36:752][292]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.07.05-11.20.36:762][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.07.05-11.20.39:828][646]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.20.39:918][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.07.05-11.20.39:946][646]LogSavePackage: Moving output files for package: /Game/Scripting/Levels/LV_TestMap
+[2024.07.05-11.20.39:947][646]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/LV_TestMap16D5835847C6E78AE0B4E2B3CDB5E8CE.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Levels/LV_TestMap.umap'
+[2024.07.05-11.20.39:953][646]LogFileHelpers: Saving map 'LV_TestMap' took 0.057
+[2024.07.05-11.20.39:960][646]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 5.49 sec)
+[2024.07.05-11.20.39:963][646]AssetCheck: New page: Asset Save: LV_TestMap
+[2024.07.05-11.20.39:963][646]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/LV_TestMap.LV_TestMap
+[2024.07.05-11.20.58:337][ 83]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.05-11.21.01:387][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.21.01:501][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.07.05-11.21.01:515][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.07.05-11.21.01:517][434]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02
+[2024.07.05-11.21.01:517][434]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/MI_Quinn_021D141D7C49C7D3FBFEC5C798E1B57F71.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset'
+[2024.07.05-11.21.01:523][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 5.63 sec)
+[2024.07.05-11.21.01:524][434]AssetCheck: New page: Asset Save: MI_Quinn_02
+[2024.07.05-11.21.01:524][434]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.MI_Quinn_02
+[2024.07.05-11.21.05:963][921]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.05-11.21.07:655][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.21.07:789][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.07.05-11.21.07:797][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.07.05-11.21.07:800][107]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01
+[2024.07.05-11.21.07:800][107]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/MI_Quinn_01C025EFF04FE7B93890937E978D4101C8.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset'
+[2024.07.05-11.21.07:806][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 5.78 sec)
+[2024.07.05-11.21.07:808][107]AssetCheck: New page: Asset Save: MI_Quinn_01
+[2024.07.05-11.21.07:808][107]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.MI_Quinn_01
+[2024.07.05-11.21.17:448][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.21.17:534][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.07.05-11.21.17:562][139]LogSavePackage: Moving output files for package: /Game/Scripting/Levels/LV_TestMap
+[2024.07.05-11.21.17:563][139]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/LV_TestMap103ABD8F4A3C398DEB79A5BE54C0AE2C.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Levels/LV_TestMap.umap'
+[2024.07.05-11.21.17:568][139]LogFileHelpers: Saving map 'LV_TestMap' took 0.057
+[2024.07.05-11.21.17:573][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 5.91 sec)
+[2024.07.05-11.21.17:575][139]AssetCheck: New page: Asset Save: LV_TestMap
+[2024.07.05-11.21.17:575][139]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/LV_TestMap.LV_TestMap
+[2024.07.05-11.21.19:088][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.07.05-11.21.20:341][308]LogSlate: Window 'Save Content' being destroyed
+[2024.07.05-11.21.20:351][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.21.20:448][308]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_03
+[2024.07.05-11.21.20:448][308]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/MI_Quinn_03B8CD78074147BBE0C61EE79D3BBF4520.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_03.uasset'
+[2024.07.05-11.21.20:455][308]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_04
+[2024.07.05-11.21.20:455][308]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/MI_Quinn_04F2076267433F151B362169B28982CC74.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_04.uasset'
+[2024.07.05-11.21.20:461][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 6.02 sec)
+[2024.07.05-11.21.20:461][308]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.05-11.21.20:461][308]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_03.MI_Quinn_03
+[2024.07.05-11.21.20:461][308]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_04.MI_Quinn_04
+[2024.07.05-11.21.22:062][474]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_04.MI_Quinn_04
+[2024.07.05-11.21.22:064][474]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.05-11.21.22:064][474]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.05-11.21.22:223][474]LogViewport: Scene viewport resized to 1335x894, mode Windowed.
+[2024.07.05-11.21.25:321][822]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.05-11.21.26:894][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.21.27:010][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.07.05-11.21.27:022][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.07.05-11.21.27:024][998]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_04
+[2024.07.05-11.21.27:025][998]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/MI_Quinn_047EC79CBE47B8D594C0C970BB00CAE49B.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_04.uasset'
+[2024.07.05-11.21.27:030][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 6.15 sec)
+[2024.07.05-11.21.27:031][998]AssetCheck: New page: Asset Save: MI_Quinn_04
+[2024.07.05-11.21.27:031][998]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_04.MI_Quinn_04
+[2024.07.05-11.21.29:312][232]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_03.MI_Quinn_03
+[2024.07.05-11.21.29:315][232]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.05-11.21.29:315][232]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.05-11.21.29:476][232]LogViewport: Scene viewport resized to 1335x894, mode Windowed.
+[2024.07.05-11.21.33:146][643]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.05-11.21.34:702][818]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.21.34:815][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.07.05-11.21.34:825][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.07.05-11.21.34:827][818]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_03
+[2024.07.05-11.21.34:829][818]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/MI_Quinn_03059EAEE046086C6E1A252D95A60D694B.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_03.uasset'
+[2024.07.05-11.21.34:836][818]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 6.29 sec)
+[2024.07.05-11.21.34:837][818]AssetCheck: New page: Asset Save: MI_Quinn_03
+[2024.07.05-11.21.34:837][818]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_03.MI_Quinn_03
+[2024.07.05-11.22.19:354][872]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.05-11.22.19:387][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.07.05-11.22.19:946][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.22.20:116][921]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-11.22.20:116][921]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacter721DF5684675AFF2ACCF63BF4E246F0E.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-11.22.20:121][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 6.46 sec)
+[2024.07.05-11.22.20:125][921]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-11.22.20:125][921]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.05-11.22.21:546][ 55]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.05-11.22.21:550][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.05-11.22.21:550][ 55]PIE: New page: PIE session: LV_TestMap (5 Jul 2024, 15:22:21)
+[2024.07.05-11.22.21:550][ 55]LogPlayLevel: Creating play world package: /Game/Scripting/Levels/UEDPIE_0_LV_TestMap
+[2024.07.05-11.22.21:554][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003927s)
+[2024.07.05-11.22.21:554][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scripting/Levels/LV_TestMap.LV_TestMap to /Game/Scripting/Levels/UEDPIE_0_LV_TestMap.LV_TestMap (0.003951s)
+[2024.07.05-11.22.21:565][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.07.05-11.22.21:566][ 55]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.05-11.22.21:567][ 55]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.05-11.22.21:567][ 55]LogAIModule: Creating AISystem for world LV_TestMap
+[2024.07.05-11.22.21:567][ 55]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2024.07.05-11.22.21:567][ 55]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.07.05-11.22.21:567][ 55]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.05-11.22.21:567][ 55]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.05-11.22.21:567][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.05-11.22.21:567][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.05-11.22.21:567][ 55]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.05-11.22.21:567][ 55]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.05-11.22.21:567][ 55]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.05-11.22.21:567][ 55]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.05-11.22.21:567][ 55]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.05-11.22.21:567][ 55]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.05-11.22.21:567][ 55]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.05-11.22.21:569][ 55]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.05-11.22.21:591][ 55]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (TUF GAMING H1 Wireless)
+[2024.07.05-11.22.21:591][ 55]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.05-11.22.21:591][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.05-11.22.21:591][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.05-11.22.21:592][ 55]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.07.05-11.22.21:592][ 55]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.07.05-11.22.21:593][ 55]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.07.05-11.22.21:593][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.07.05-11.22.21:593][ 55]LogInit: FAudioDevice initialized with ID 4.
+[2024.07.05-11.22.21:593][ 55]LogAudio: Display: Audio Device (ID: 4) registered with world 'LV_TestMap'.
+[2024.07.05-11.22.21:593][ 55]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.07.05-11.22.21:595][ 55]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.05-11.22.21:598][ 55]LogWorld: Bringing World /Game/Scripting/Levels/UEDPIE_0_LV_TestMap.LV_TestMap up for play (max tick rate 0) at 2024.07.05-13.22.21
+[2024.07.05-11.22.21:598][ 55]LogWorld: Bringing up level for play took: 0.001193
+[2024.07.05-11.22.21:599][ 55]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.07.05-11.22.21:602][ 55]LogBlueprintUserMessages: [LV_TestMap_C_0] X=-1540.000 Y=-430.000 Z=91.650
+[2024.07.05-11.22.21:602][ 55]PIE: Server logged in
+[2024.07.05-11.22.21:603][ 55]PIE: Play in editor total start time 0.052 seconds.
+[2024.07.05-11.22.21:605][ 55]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Starter_Birds01'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.07.05-11.22.25:559][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.05-11.22.25:559][517]LogWorld: BeginTearingDown for /Game/Scripting/Levels/UEDPIE_0_LV_TestMap
+[2024.07.05-11.22.25:559][517]LogWorld: UWorld::CleanupWorld for LV_TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.05-11.22.25:560][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.05-11.22.25:562][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.05-11.22.25:564][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.05-11.22.25:575][517]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.05-11.22.25:576][517]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.07.05-11.22.25:576][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.07.05-11.22.25:577][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.07.05-11.22.25:594][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.05-11.22.25:596][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.07.05-11.22.25:627][518]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.07.05-11.22.25:635][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.07.05-11.23.21:355][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.23.21:525][  0]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-11.23.21:525][  0]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacter0B941A584E5EAD9C4AB4A2ACE4406DF7.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-11.23.21:530][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 6.64 sec)
+[2024.07.05-11.23.21:532][  0]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-11.23.21:532][  0]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.05-11.23.24:254][284]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.05-11.23.24:289][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.07.05-11.23.24:854][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.23.24:994][338]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-11.23.24:995][338]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacter6D7B300F4EF7B12940E80897CB9CD5F2.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-11.23.25:000][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 6.78 sec)
+[2024.07.05-11.23.25:004][338]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-11.23.25:004][338]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.05-11.23.26:788][530]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.05-11.23.26:792][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.05-11.23.26:792][530]PIE: New page: PIE session: LV_TestMap (5 Jul 2024, 15:23:26)
+[2024.07.05-11.23.26:792][530]LogPlayLevel: Creating play world package: /Game/Scripting/Levels/UEDPIE_0_LV_TestMap
+[2024.07.05-11.23.26:796][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003972s)
+[2024.07.05-11.23.26:796][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scripting/Levels/LV_TestMap.LV_TestMap to /Game/Scripting/Levels/UEDPIE_0_LV_TestMap.LV_TestMap (0.003997s)
+[2024.07.05-11.23.26:808][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.07.05-11.23.26:809][530]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.05-11.23.26:809][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.05-11.23.26:810][530]LogAIModule: Creating AISystem for world LV_TestMap
+[2024.07.05-11.23.26:810][530]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2024.07.05-11.23.26:810][530]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.07.05-11.23.26:810][530]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.05-11.23.26:810][530]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.05-11.23.26:810][530]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.05-11.23.26:810][530]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.05-11.23.26:810][530]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.05-11.23.26:810][530]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.05-11.23.26:810][530]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.05-11.23.26:810][530]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.05-11.23.26:810][530]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.05-11.23.26:810][530]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.05-11.23.26:810][530]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.05-11.23.26:812][530]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.05-11.23.26:834][530]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (TUF GAMING H1 Wireless)
+[2024.07.05-11.23.26:834][530]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.05-11.23.26:834][530]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.05-11.23.26:834][530]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.05-11.23.26:834][530]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.07.05-11.23.26:834][530]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.07.05-11.23.26:835][530]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.07.05-11.23.26:835][530]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.07.05-11.23.26:835][530]LogInit: FAudioDevice initialized with ID 5.
+[2024.07.05-11.23.26:835][530]LogAudio: Display: Audio Device (ID: 5) registered with world 'LV_TestMap'.
+[2024.07.05-11.23.26:835][530]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.07.05-11.23.26:838][530]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.05-11.23.26:841][530]LogWorld: Bringing World /Game/Scripting/Levels/UEDPIE_0_LV_TestMap.LV_TestMap up for play (max tick rate 0) at 2024.07.05-13.23.26
+[2024.07.05-11.23.26:841][530]LogWorld: Bringing up level for play took: 0.001107
+[2024.07.05-11.23.26:842][530]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.07.05-11.23.26:844][530]LogBlueprintUserMessages: [LV_TestMap_C_0] X=-1540.000 Y=-430.000 Z=91.650
+[2024.07.05-11.23.26:845][530]PIE: Server logged in
+[2024.07.05-11.23.26:846][530]PIE: Play in editor total start time 0.053 seconds.
+[2024.07.05-11.23.26:848][530]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Starter_Birds01'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.07.05-11.23.29:180][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.05-11.23.29:180][797]LogWorld: BeginTearingDown for /Game/Scripting/Levels/UEDPIE_0_LV_TestMap
+[2024.07.05-11.23.29:180][797]LogWorld: UWorld::CleanupWorld for LV_TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.05-11.23.29:180][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.05-11.23.29:183][797]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.05-11.23.29:185][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.05-11.23.29:194][797]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.05-11.23.29:194][797]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.07.05-11.23.29:194][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.05-11.23.29:195][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.05-11.23.29:219][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.05-11.23.29:222][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.07.05-11.23.29:255][798]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.07.05-11.23.29:264][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.07.05-11.23.36:121][581]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.05-11.23.36:156][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.07.05-11.23.36:818][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.23.36:945][640]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-11.23.36:946][640]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacterFFDBBF114D0A9E0659B91A967D840362.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-11.23.36:951][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 6.92 sec)
+[2024.07.05-11.23.36:952][640]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-11.23.36:952][640]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.05-11.23.39:053][848]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.05-11.23.39:058][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.05-11.23.39:058][848]PIE: New page: PIE session: LV_TestMap (5 Jul 2024, 15:23:39)
+[2024.07.05-11.23.39:058][848]LogPlayLevel: Creating play world package: /Game/Scripting/Levels/UEDPIE_0_LV_TestMap
+[2024.07.05-11.23.39:062][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003977s)
+[2024.07.05-11.23.39:062][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scripting/Levels/LV_TestMap.LV_TestMap to /Game/Scripting/Levels/UEDPIE_0_LV_TestMap.LV_TestMap (0.004000s)
+[2024.07.05-11.23.39:073][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.07.05-11.23.39:076][848]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.05-11.23.39:076][848]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.05-11.23.39:076][848]LogAIModule: Creating AISystem for world LV_TestMap
+[2024.07.05-11.23.39:076][848]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2024.07.05-11.23.39:076][848]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.07.05-11.23.39:076][848]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.05-11.23.39:076][848]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.05-11.23.39:076][848]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.05-11.23.39:076][848]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.05-11.23.39:076][848]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.05-11.23.39:076][848]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.05-11.23.39:076][848]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.05-11.23.39:076][848]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.05-11.23.39:077][848]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.05-11.23.39:077][848]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.05-11.23.39:077][848]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.05-11.23.39:078][848]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.05-11.23.39:100][848]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (TUF GAMING H1 Wireless)
+[2024.07.05-11.23.39:100][848]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.05-11.23.39:100][848]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.05-11.23.39:100][848]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.05-11.23.39:100][848]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.07.05-11.23.39:100][848]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.07.05-11.23.39:101][848]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.07.05-11.23.39:101][848]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.07.05-11.23.39:101][848]LogInit: FAudioDevice initialized with ID 6.
+[2024.07.05-11.23.39:101][848]LogAudio: Display: Audio Device (ID: 6) registered with world 'LV_TestMap'.
+[2024.07.05-11.23.39:101][848]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.07.05-11.23.39:103][848]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.05-11.23.39:107][848]LogWorld: Bringing World /Game/Scripting/Levels/UEDPIE_0_LV_TestMap.LV_TestMap up for play (max tick rate 0) at 2024.07.05-13.23.39
+[2024.07.05-11.23.39:107][848]LogWorld: Bringing up level for play took: 0.001156
+[2024.07.05-11.23.39:108][848]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.07.05-11.23.39:111][848]LogBlueprintUserMessages: [LV_TestMap_C_0] X=-1540.000 Y=-430.000 Z=91.650
+[2024.07.05-11.23.39:112][848]PIE: Server logged in
+[2024.07.05-11.23.39:112][848]PIE: Play in editor total start time 0.054 seconds.
+[2024.07.05-11.23.39:115][848]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Starter_Birds01'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.07.05-11.23.41:090][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.05-11.23.41:090][ 74]LogWorld: BeginTearingDown for /Game/Scripting/Levels/UEDPIE_0_LV_TestMap
+[2024.07.05-11.23.41:090][ 74]LogWorld: UWorld::CleanupWorld for LV_TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.05-11.23.41:090][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.05-11.23.41:092][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.05-11.23.41:094][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.05-11.23.41:104][ 74]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.05-11.23.41:104][ 74]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.07.05-11.23.41:104][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.07.05-11.23.41:106][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.07.05-11.23.41:127][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.05-11.23.41:128][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.07.05-11.23.41:170][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.07.05-11.23.41:189][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.07.05-11.23.58:381][ 38]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.05-11.23.58:433][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.07.05-11.23.58:972][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.23.59:132][ 78]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-11.23.59:133][ 78]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacter55C9801A444911E9A1E06CA2032E7B97.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-11.23.59:138][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 7.08 sec)
+[2024.07.05-11.23.59:141][ 78]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-11.23.59:141][ 78]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.05-11.24.00:046][167]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.05-11.24.00:050][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.05-11.24.00:050][167]PIE: New page: PIE session: LV_TestMap (5 Jul 2024, 15:24:00)
+[2024.07.05-11.24.00:050][167]LogPlayLevel: Creating play world package: /Game/Scripting/Levels/UEDPIE_0_LV_TestMap
+[2024.07.05-11.24.00:054][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003885s)
+[2024.07.05-11.24.00:054][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scripting/Levels/LV_TestMap.LV_TestMap to /Game/Scripting/Levels/UEDPIE_0_LV_TestMap.LV_TestMap (0.003909s)
+[2024.07.05-11.24.00:065][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.07.05-11.24.00:067][167]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.05-11.24.00:067][167]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.05-11.24.00:067][167]LogAIModule: Creating AISystem for world LV_TestMap
+[2024.07.05-11.24.00:067][167]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2024.07.05-11.24.00:067][167]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.07.05-11.24.00:067][167]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.05-11.24.00:067][167]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.05-11.24.00:067][167]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.05-11.24.00:067][167]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.05-11.24.00:067][167]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.05-11.24.00:067][167]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.05-11.24.00:067][167]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.05-11.24.00:067][167]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.05-11.24.00:068][167]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.05-11.24.00:068][167]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.05-11.24.00:068][167]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.05-11.24.00:069][167]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.05-11.24.00:091][167]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (TUF GAMING H1 Wireless)
+[2024.07.05-11.24.00:091][167]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.05-11.24.00:091][167]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.05-11.24.00:091][167]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.05-11.24.00:091][167]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.07.05-11.24.00:091][167]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.07.05-11.24.00:092][167]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.07.05-11.24.00:092][167]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.07.05-11.24.00:092][167]LogInit: FAudioDevice initialized with ID 7.
+[2024.07.05-11.24.00:092][167]LogAudio: Display: Audio Device (ID: 7) registered with world 'LV_TestMap'.
+[2024.07.05-11.24.00:092][167]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.07.05-11.24.00:094][167]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.05-11.24.00:098][167]LogWorld: Bringing World /Game/Scripting/Levels/UEDPIE_0_LV_TestMap.LV_TestMap up for play (max tick rate 0) at 2024.07.05-13.24.00
+[2024.07.05-11.24.00:098][167]LogWorld: Bringing up level for play took: 0.001109
+[2024.07.05-11.24.00:099][167]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.07.05-11.24.00:102][167]LogBlueprintUserMessages: [LV_TestMap_C_0] X=-1540.000 Y=-430.000 Z=91.650
+[2024.07.05-11.24.00:102][167]PIE: Server logged in
+[2024.07.05-11.24.00:103][167]PIE: Play in editor total start time 0.053 seconds.
+[2024.07.05-11.24.00:105][167]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Starter_Birds01'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.07.05-11.24.01:400][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.05-11.24.01:400][309]LogWorld: BeginTearingDown for /Game/Scripting/Levels/UEDPIE_0_LV_TestMap
+[2024.07.05-11.24.01:401][309]LogWorld: UWorld::CleanupWorld for LV_TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.05-11.24.01:401][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.05-11.24.01:404][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.05-11.24.01:406][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.05-11.24.01:414][309]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.05-11.24.01:414][309]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.07.05-11.24.01:414][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.07.05-11.24.01:416][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.07.05-11.24.01:463][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.05-11.24.01:466][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.07.05-11.24.01:498][310]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.07.05-11.24.01:508][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.07.05-11.24.06:016][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.24.06:102][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.07.05-11.24.06:129][457]LogSavePackage: Moving output files for package: /Game/Scripting/Levels/LV_TestMap
+[2024.07.05-11.24.06:130][457]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/LV_TestMapD8FB21A044E94A83FFB7288DE9C4CCE7.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Levels/LV_TestMap.umap'
+[2024.07.05-11.24.06:136][457]LogFileHelpers: Saving map 'LV_TestMap' took 0.057
+[2024.07.05-11.24.06:143][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 7.21 sec)
+[2024.07.05-11.24.06:144][457]AssetCheck: New page: Asset Save: LV_TestMap
+[2024.07.05-11.24.06:144][457]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scripting/Levels/LV_TestMap.LV_TestMap
+[2024.07.05-11.24.31:972][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.24.32:112][459]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-11.24.32:113][459]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacter5D3B7B0541C95432971CB9BCDCA49015.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-11.24.32:122][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 7.36 sec)
+[2024.07.05-11.24.32:123][459]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-11.24.32:123][459]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.05-11.24.41:880][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.24.42:032][412]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-11.24.42:032][412]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacterC92C0F994982F91995C90CADBD47E7EA.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-11.24.42:039][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 7.52 sec)
+[2024.07.05-11.24.42:041][412]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-11.24.42:041][412]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.05-11.24.43:739][591]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.05-11.24.43:743][591]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.07.05-11.24.43:745][591]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2024.07.05-11.24.43:825][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.07.05-11.24.43:826][591]LogPlayLevel: PlayLevel: Blueprint regeneration took 83 ms (1 blueprints)
+[2024.07.05-11.24.43:826][591]PIE: New page: PIE session: LV_TestMap (5 Jul 2024, 15:24:43)
+[2024.07.05-11.24.43:827][591]LogPlayLevel: Creating play world package: /Game/Scripting/Levels/UEDPIE_0_LV_TestMap
+[2024.07.05-11.24.43:830][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003875s)
+[2024.07.05-11.24.43:830][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scripting/Levels/LV_TestMap.LV_TestMap to /Game/Scripting/Levels/UEDPIE_0_LV_TestMap.LV_TestMap (0.003920s)
+[2024.07.05-11.24.43:835][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.07.05-11.24.43:836][591]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.05-11.24.43:836][591]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.05-11.24.43:836][591]LogAIModule: Creating AISystem for world LV_TestMap
+[2024.07.05-11.24.43:836][591]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2024.07.05-11.24.43:836][591]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.07.05-11.24.43:836][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.05-11.24.43:836][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.05-11.24.43:836][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.05-11.24.43:836][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.05-11.24.43:837][591]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.05-11.24.43:837][591]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.05-11.24.43:837][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.05-11.24.43:837][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.05-11.24.43:837][591]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.05-11.24.43:837][591]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.05-11.24.43:837][591]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.05-11.24.43:839][591]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.05-11.24.43:860][591]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (TUF GAMING H1 Wireless)
+[2024.07.05-11.24.43:861][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.05-11.24.43:861][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.05-11.24.43:861][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.05-11.24.43:861][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.07.05-11.24.43:861][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.07.05-11.24.43:862][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.07.05-11.24.43:862][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.07.05-11.24.43:862][591]LogInit: FAudioDevice initialized with ID 8.
+[2024.07.05-11.24.43:862][591]LogAudio: Display: Audio Device (ID: 8) registered with world 'LV_TestMap'.
+[2024.07.05-11.24.43:862][591]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.07.05-11.24.43:865][591]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.05-11.24.43:868][591]LogWorld: Bringing World /Game/Scripting/Levels/UEDPIE_0_LV_TestMap.LV_TestMap up for play (max tick rate 0) at 2024.07.05-13.24.43
+[2024.07.05-11.24.43:868][591]LogWorld: Bringing up level for play took: 0.001220
+[2024.07.05-11.24.43:869][591]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.07.05-11.24.43:871][591]LogBlueprintUserMessages: [LV_TestMap_C_0] X=-1540.000 Y=-430.000 Z=91.650
+[2024.07.05-11.24.43:872][591]PIE: Server logged in
+[2024.07.05-11.24.43:872][591]PIE: Play in editor total start time 0.13 seconds.
+[2024.07.05-11.24.43:875][591]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Starter_Birds01'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.07.05-11.24.45:460][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.05-11.24.45:460][770]LogWorld: BeginTearingDown for /Game/Scripting/Levels/UEDPIE_0_LV_TestMap
+[2024.07.05-11.24.45:460][770]LogWorld: UWorld::CleanupWorld for LV_TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.05-11.24.45:460][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.05-11.24.45:462][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.05-11.24.45:464][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.05-11.24.45:475][770]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.05-11.24.45:475][770]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.07.05-11.24.45:476][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.05-11.24.45:477][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.05-11.24.45:481][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.05-11.24.45:484][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.07.05-11.24.45:522][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.07.05-11.24.45:555][772]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.07.05-11.26.30:803][335]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.05-11.26.30:842][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.07.05-11.26.31:289][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.26.31:439][372]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-11.26.31:439][372]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacterC94EEC4C48A1C31F6956839BE975F1C0.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-11.26.31:445][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 7.68 sec)
+[2024.07.05-11.26.31:446][372]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-11.26.31:446][372]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.05-11.27.07:608][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.27.07:646][638]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(754)].
+[2024.07.05-11.27.07:682][638]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-11.27.07:683][638]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacter59CF02AF4AB84775A772F194184FAFB9.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-11.27.07:687][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 7.75 sec)
+[2024.07.05-11.27.07:693][638]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-11.27.07:693][638]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.05-11.27.20:512][152]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.07.05-11.27.20:517][152]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.05-11.27.24:212][585]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.05-11.27.24:253][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.07.05-11.27.24:855][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.05-11.27.25:000][636]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.05-11.27.25:000][636]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Saved/BP_ThirdPersonCharacter6D11C22C41606EBC06B5398BF81D0941.tmp' to '../../../../../../Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.05-11.27.25:006][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 7.91 sec)
+[2024.07.05-11.27.25:010][636]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.05-11.27.25:010][636]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter

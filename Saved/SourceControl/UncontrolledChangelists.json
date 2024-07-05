@@ -27,7 +27,12 @@
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Input/Actions/IA_Pause.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_MouseEvents.uasset",
-				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/Framework/BP_PLayerController.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/Framework/BP_PlayerController.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_03.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_04.uasset",
 				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Input/Actions/IA_StopPlay.uasset"
 			]
 		}
