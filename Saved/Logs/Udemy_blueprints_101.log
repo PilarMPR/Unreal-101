@@ -3322,3 +3322,4 @@ BndEvt__LV_TestMap_StaticMeshActor_5_K2Node_ActorBoundEvent_4_ActorBeginOverlapS
 [2024.07.08-13.22.06:281][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 3.78 sec)
 [2024.07.08-13.22.06:285][368]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2024.07.08-13.22.06:285][368]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.08-13.23.36:045][746]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/ThirdPerson/Maps/ThirdPersonMap does not exist, will not scan.
