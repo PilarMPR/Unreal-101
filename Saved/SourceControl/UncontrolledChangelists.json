@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/BP_ExamplePickup.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/LV_TestMap.umap",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/BP_modularConstructScript.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Sub_Level_01.umap",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/StarterContent/Materials/M_Basic_Wall.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Levels/LV_TestMap.umap",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Levels/Sub_Level_01.umap",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_ExamplePickup.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/Udemy_blueprints_101/Content/Scripting/Overview/BP_modularConstructScript.uasset"
+			]
+		}
+	]
+}
